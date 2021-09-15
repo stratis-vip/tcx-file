@@ -1,0 +1,23 @@
+{
+  "name": "tcx-file",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch",
+    "start": "node build/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/xml2js": "^0.4.9",
+    "jest": "^27.1.1",
+    "nodemon": "^2.0.12",
+    "typescript": "^4.4.3"
+  },
+  "dependencies": {
+    "luxon": "^2.0.2",
+    "xml2js": "^0.4.23"
+  }
+}
