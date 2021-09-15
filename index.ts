@@ -1,4 +1,4 @@
-import TcxFile from "./build/src/classes/tcx-file";
-import {ISummary} from "./src/classes/consts";
+import TcxFile from "./build/classes/tcx-file"
+import {ISummary} from "./build/classes/consts";
 
 export   {TcxFile, ISummary}
