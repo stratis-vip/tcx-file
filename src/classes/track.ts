@@ -16,7 +16,7 @@ class Track extends TcxBase<ITrackPoint> {
         }
         if (obj.Extensions){
             this._extensions = new Extensions(obj.Extensions[0])
-            console.log(this._extensions.speed, this._extensions.runCadence)
+            // console.log(this._extensions.speed, this._extensions.runCadence)
         }
     }
 

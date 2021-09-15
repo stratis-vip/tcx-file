@@ -43,7 +43,7 @@ var Track = /** @class */ (function (_super) {
         }
         if (obj.Extensions) {
             _this._extensions = new extensions_1.default(obj.Extensions[0]);
-            console.log(_this._extensions.speed, _this._extensions.runCadence);
+            // console.log(this._extensions.speed, this._extensions.runCadence)
         }
         return _this;
     }
