@@ -1,3 +1,3 @@
-// import TcxFile from "./build/classes/tcx-file";
+import TcxFile from "./build/src/classes/tcx-file";
 
-// export default  TcxFile
+export default  TcxFile

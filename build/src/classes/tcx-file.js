@@ -21,7 +21,7 @@ var TcxFile = /** @class */ (function () {
         }
         try {
             var a = fs_1.default.readFileSync(file, 'utf8');
-            (0, xml2js_1.parseString)(a, function (err, result) {
+            xml2js_1.parseString(a, function (err, result) {
                 if (err) {
                     throw new Error(err.message);
                 }
