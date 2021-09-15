@@ -1,10 +1,7 @@
 "use strict";
-var __importDefault = (this && this.__importDefault) || function (mod) {
-    return (mod && mod.__esModule) ? mod : { "default": mod };
-};
-Object.defineProperty(exports, "__esModule", { value: true });
-var fs_1 = __importDefault(require("fs"));
-var activity_1 = __importDefault(require("./activity"));
+exports.__esModule = true;
+var fs_1 = require("fs");
+var activity_1 = require("./activity");
 var Pace = require("./pace");
 var xml2js_1 = require("xml2js");
 var TcxFile = /** @class */ (function () {
@@ -16,11 +13,11 @@ var TcxFile = /** @class */ (function () {
         if (!file) {
             throw new Error('No file!');
         }
-        if (!fs_1.default.existsSync(file)) {
+        if (!fs_1["default"].existsSync(file)) {
             throw new Error("File \"" + file + "\" not Exists");
         }
         try {
-            var a = fs_1.default.readFileSync(file, 'utf8');
+            var a = fs_1["default"].readFileSync(file, 'utf8');
             xml2js_1.parseString(a, function (err, result) {
                 if (err) {
                     throw new Error(err.message);
@@ -32,7 +29,7 @@ var TcxFile = /** @class */ (function () {
                 var acts = result.TrainingCenterDatabase.Activities[0].Activity;
                 for (var _i = 0, acts_1 = acts; _i < acts_1.length; _i++) {
                     var act = acts_1[_i];
-                    _this._activities.push(new activity_1.default(act));
+                    _this._activities.push(new activity_1["default"](act));
                 }
                 _this._laps = [];
                 for (var _a = 0, _b = _this._activities; _a < _b.length; _a++) {
@@ -168,5 +165,4 @@ var TcxFile = /** @class */ (function () {
     });
     return TcxFile;
 }());
-exports.default = TcxFile;
-//# sourceMappingURL=tcx-file.js.map
+exports["default"] = TcxFile;

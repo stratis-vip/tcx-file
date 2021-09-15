@@ -70,5 +70,16 @@ export interface IActivity {
     Lap: Array<ILap>
 }
 
+export interface  ISummary{
+    sport: string,
+    timeInSeconds: number,
+    distanceMeters: number,
+    calories?: number,
+    date: string,
+    startPosition: {
+        lat: number | null,
+        lng: number | null
+    }
+}
 
 module.exports = {SportType}

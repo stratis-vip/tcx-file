@@ -1,0 +1,1551 @@
+[
+  [
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      Extensions: [Array]
+    },
+    { Time: [Array], DistanceMeters: [Array], Extensions: [Array] },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    ... 61 more items
+  ]
+]
+[
+  [
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    ... 72 more items
+  ]
+]
+[
+  [
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    },
+    {
+      Time: [Array],
+      Position: [Array],
+      AltitudeMeters: [Array],
+      DistanceMeters: [Array],
+      HeartRateBpm: [Array],
+      Extensions: [Array]
+    }
+  ]
+]
