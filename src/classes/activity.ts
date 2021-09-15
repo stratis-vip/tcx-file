@@ -1,13 +1,13 @@
-import  Lap from "./lap"
+import Lap from "./lap"
 import TcxBase from "./tcx-base";
 import {IActivity} from "./consts";
 
 class Activity extends TcxBase<IActivity> {
-    private readonly  _laps:Array<Lap>
-    private readonly _id:string
-    private readonly _sport:string
+    private readonly _laps: Array<Lap>
+    private readonly _id: string
+    private readonly _sport: string
 
-    constructor(obj:IActivity) {
+    constructor(obj: IActivity) {
         super(obj);
         this._id = this._obj.Id[0]
         this._laps = []
@@ -25,7 +25,7 @@ class Activity extends TcxBase<IActivity> {
         return this._sport
     }
 
-    get laps(){
+    get laps() {
         return this._laps
     }
 }
