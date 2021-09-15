@@ -61,14 +61,14 @@ export interface IActivity {
     Lap: Array<ILap>;
 }
 export interface ISummary {
-    sport: string;
-    timeInSeconds: number;
-    distanceMeters: number;
-    calories?: number;
-    date: string;
+    sport: String;
+    timeInSeconds: Number;
+    distanceMeters: Number;
+    calories?: Number;
+    date: String;
     startPosition: {
-        lat: number | null;
-        lng: number | null;
+        lat: Number | null;
+        lng: Number | null;
     };
 }
 export {};
