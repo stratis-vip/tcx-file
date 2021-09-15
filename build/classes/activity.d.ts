@@ -6,8 +6,8 @@ declare class Activity extends TcxBase<IActivity> {
     private readonly _id;
     private readonly _sport;
     constructor(obj: IActivity);
-    get id(): String;
-    get sport(): String;
+    get id(): string;
+    get sport(): string;
     get laps(): Lap[];
 }
 export default Activity;

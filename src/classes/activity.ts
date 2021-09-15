@@ -4,8 +4,8 @@ import {IActivity} from "./consts";
 
 class Activity extends TcxBase<IActivity> {
     private readonly  _laps:Array<Lap>
-    private readonly _id:String
-    private readonly _sport:String
+    private readonly _id:string
+    private readonly _sport:string
 
     constructor(obj:IActivity) {
         super(obj);

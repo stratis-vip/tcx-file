@@ -5,9 +5,9 @@ declare class Position extends TcxBase<IPosition> {
     private readonly _longitudeDegrees;
     private readonly _altitudeMeters;
     constructor(obj: IPosition);
-    get latitudeDegrees(): Number;
-    get longitudeDegrees(): Number;
-    get altitudeMeters(): Number;
+    get latitudeDegrees(): number;
+    get longitudeDegrees(): number;
+    get altitudeMeters(): number;
     get coordinates(): GeoCordinates;
 }
 export default Position;

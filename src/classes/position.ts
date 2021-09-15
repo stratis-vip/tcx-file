@@ -2,9 +2,9 @@ import  TcxBase from "./tcx-base"
 import {GeoCordinates, IPosition} from "./consts";
 
 class Position extends TcxBase<IPosition> {
-    private readonly _latitudeDegrees: Number
-    private readonly _longitudeDegrees: Number
-    private readonly _altitudeMeters: Number
+    private readonly _latitudeDegrees: number
+    private readonly _longitudeDegrees: number
+    private readonly _altitudeMeters: number
 
     constructor(obj:IPosition) {
         super(obj);

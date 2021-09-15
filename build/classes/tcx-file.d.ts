@@ -1,6 +1,6 @@
 import Activity from "./activity";
 import Lap from './lap';
-import { ITcxFileContent } from "./consts";
+import { ISummary, ITcxFileContent } from "./consts";
 declare class TcxFile {
     private _data?;
     private _isValid;
@@ -11,28 +11,18 @@ declare class TcxFile {
     get data(): ITcxFileContent | undefined;
     get activities(): Activity[];
     get count(): number;
-    get id(): String;
-    get sport(): String;
+    get id(): string;
+    get sport(): string;
     get path(): (import("./consts").IPosition | undefined)[];
     get pathForGoogleMaps(): {
-        lat: String[] | undefined;
-        lng: String[] | undefined;
+        lat: string[] | undefined;
+        lng: string[] | undefined;
     }[];
     get laps(): Lap[];
-    get timeInSeconds(): Number | undefined;
-    get distanceMeters(): Number | undefined;
+    get timeInSeconds(): number | undefined;
+    get distanceMeters(): number | undefined;
     get pace(): any;
     get calories(): number | undefined;
-    get summary(): {
-        sport: String;
-        timeInSeconds: Number | undefined;
-        distanceMeters: Number | undefined;
-        calories: number | undefined;
-        date: String;
-        startPosition: {
-            lat: Number | null;
-            lng: Number | null;
-        };
-    };
+    get summary(): ISummary;
 }
 export default TcxFile;

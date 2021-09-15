@@ -1,15 +1,12 @@
-const SportType = Object.create({
-    Running: Symbol('Running'),
-    Walking: Symbol('Walking'),
-});
 
-type StringArray = Array<String>
-type NumberArray = Array<Number>
+
+type StringArray = Array<string>
+type NumberArray = Array<number>
 
 export interface GeoCordinates {
-    latitudeDegrees: Number
-    longitudeDegrees: Number
-    altitudeMeters: Number
+    latitudeDegrees: number
+    longitudeDegrees: number
+    altitudeMeters: number
 }
 
 export interface ITcxFileContent {
@@ -25,13 +22,13 @@ export interface ITrainingCenterDatabase {
 
 
 export interface IValue {
-    Value: Array<String>
+    Value: Array<string>
 }
 
 export interface IPosition {
     LatitudeDegrees: StringArray
     LongitudeDegrees: StringArray
-    Altitude?: Number
+    Altitude?: number
 }
 
 export interface IExtensions {
@@ -51,7 +48,7 @@ export interface ITrackPoint {
 }
 
 export interface ILap {
-    $: { StartTime: String }
+    $: { StartTime: string }
     TotalTimeSeconds: StringArray
     DistanceMeters: StringArray
     Calories?: StringArray
@@ -65,21 +62,20 @@ export interface ILap {
 }
 
 export interface IActivity {
-    $: { Sport: String }
+    $: { Sport: string }
     Id: StringArray
     Lap: Array<ILap>
 }
 
 export interface  ISummary{
-    sport: String,
-    timeInSeconds: Number,
-    distanceMeters: Number,
-    calories?: Number,
-    date: String,
+    sport: string,
+    timeInSeconds?: number,
+    distanceMeters?: number,
+    calories?: number,
+    date: string,
     startPosition: {
-        lat: Number | null,
-        lng: Number | null
+        lat: number | null,
+        lng: number | null
     }
 }
 
-module.exports = {SportType}

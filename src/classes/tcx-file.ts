@@ -4,7 +4,7 @@ import Lap from './lap'
 
 const Pace = require("./pace");
 import {parseString} from 'xml2js'
-import {ITcxFileContent} from "./consts";
+import {ISummary, ITcxFileContent} from "./consts";
 
 class TcxFile {
     private _data?: ITcxFileContent
@@ -113,7 +113,7 @@ class TcxFile {
         return this._laps.map((l: Lap) => l.calories).reduce((a, b) => Number(a) + Number(b), 0)
     }
 
-    get summary() {
+    get summary():ISummary {
         return {
             sport: this.sport,
             timeInSeconds: this.timeInSeconds,

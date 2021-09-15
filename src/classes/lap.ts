@@ -5,8 +5,8 @@ import {ILap} from "./consts";
 
 class Lap extends TcxBase<ILap> {
     private readonly _tracks: Array<Track>
-    private readonly _distanceMeters?: Number
-    private readonly _totalTimeSeconds?: Number
+    private readonly _distanceMeters?: number
+    private readonly _totalTimeSeconds?: number
     private readonly _pace?: Pace
 
     constructor(obj: ILap) {

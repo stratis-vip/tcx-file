@@ -9,9 +9,9 @@ declare class Lap extends TcxBase<ILap> {
     private readonly _pace?;
     constructor(obj: ILap);
     get tracks(): Track[];
-    get startTime(): String;
-    get totalTimeSeconds(): Number | undefined;
-    get distanceMeters(): Number | undefined;
+    get startTime(): string;
+    get totalTimeSeconds(): number | undefined;
+    get distanceMeters(): number | undefined;
     get calories(): number | undefined;
     get averageHeartRateBpm(): number | undefined;
     get maximumHeartRateBpm(): number | undefined;
