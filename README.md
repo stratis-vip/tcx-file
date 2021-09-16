@@ -9,7 +9,8 @@ A library to get info from a tcx file.
 where the file is the full path of tcx file
 
 Properties
-#### activities:Activity[] the activities in the file
+#### activities:Activity[] 
+the activities in the file
 #### count:number
 the number of activities
 #### id:string
